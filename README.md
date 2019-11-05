@@ -27,9 +27,9 @@ Education
 
 <div style="page-break-after: always"></div>
 
-I've grown fascinated with computers and electronics in general. Started at 5 when I started to disassemble all my toys (and usually failing to put them back together). But later at 9 my "disassembling skills" got more a bit more useful when I would spend full afternoons removing electronic components from old devices, so they could later be used to repair other equipment.
+I've grown fascinated with computers and electronics in general. It started at the age of 5 when I started to disassemble all my toys (and usually failing to put them back together into a working condition). But later around the age of 9 my "disassembling skills" got more a bit more useful. During that time I would then spend full afternoons removing electronic components from old devices, so they could later be used to repair other equipment.
 
-But was only at 16, during my vocational education, that I discovered my passion for programming. From that point a decided to switch my focus from mainly electronics and communications to software development. I felt programming was this big hidden universe that the more you learn the further you realize out how little you know about it. That keeps me exploring more of it and never felling like stopping.
+It was only later, during my vocational education, that I discovered my passion for programming. From that point I decided to switch my focus from mainly electronics and communications to software development. I felt like programming was this big hidden universe that the more you learn the further you realize out how little you know about it. That keeps me exploring more of it and never felling like stopping.
 
 
 Working experience
@@ -58,8 +58,8 @@ Technical experience and technologies
 #####Main technologies (high proficiency):
 
 ```
-- Node.js (with Express)
-- Python (with Django)
+- Node.js
+- Python
 - MongoDB
 - SQL (MariaDB, Postgres)
 - React.js
